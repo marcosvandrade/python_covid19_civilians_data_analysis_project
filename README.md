@@ -1,1 +1,2 @@
-# python_covid19_civilians_data_analysis_project
+
+Análise de Dados sobre a COVID-19 de Civis no mundo e no Brasil.
